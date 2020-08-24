@@ -1,0 +1,136 @@
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none; 
+}
+a:hover{
+    color:#EAF6F6;
+}
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    color: #40514E;
+}
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:4.375rem;
+    color:#66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.875rem;
+    color:#66BFBF;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.btn {
+    background:linear-gradient(to bottom, #11999E 5%, #11999E 100%);
+    background-color:#11999E;    
+    border-radius:15px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size:17px;
+    padding:11px 23px;
+    text-decoration:none;    
+}    
+.btn:hover {
+    background:linear-gradient(to bottom, #33E3CB 5%, #2BC4AD 100%);
+    background-color:#2BC4AD;    
+}    
+.btn:active {
+        position:relative;
+        top:1px;
+}
+.contact-message{
+    width: 35%;
+    margin: 40px auto;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size:0.75rem;
+    padding: 20px 0px;
+}
+.ppic{
+    height:25%;
+    width:25%;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto;
+    text-align: left;
+}
+.python{
+    width:25%;
+    float: left;
+    margin-right:20px;
+}
+.travel{
+    float: right;
+    margin-left:15px;
+    border-radius: 50%;
+    width:25%;
+}
+.travel-gif{
+    float: right;
+    margin-left:30px;
+    border-radius: 50%;
+    width:25%;
+}
+.topcontainer{
+    background-color:#EAF6F6;
+    padding-top: 100px;
+    position: relative;
+}
+.middle-container{
+    margin: 100px 0px;
+}
+.intro{
+    width: 24.5%;
+    margin: auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0px 20px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.insta{
+    font-family: 'Sacramento', cursive;
+}
+.pizza{
+    height: 18px;
+    width: 18px;
+}
+.subt{
+    font-weight: normal;
+}
+.quote{
+    margin-top: 40px;
+    clear: left;
+}
